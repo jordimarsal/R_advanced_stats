@@ -1,0 +1,84 @@
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 84px;
+}
+ul h4{
+	color:#111111;
+}
+img{
+	margin-left:7%;
+	width:800px;
+}
+table.gmisc_table{
+	margin-left:14%;
+}
+footer{
+	margin-top: 42px;
+	margin-bottom: 30px;
+}
+p {
+	font-size:16px;
+	font-weight:400;
+	color:#111111;
+}
+ul {
+	margin-left:4%;
+	margin-top:2%;
+	font-size:14px;
+}
+ol {
+	font-size:16px;
+	font-weight:400;
+	color:#317eac;
+}
+hr {
+	border-top: 1px solid #ccc;
+}
+blockquote{
+	margin-block-end: 2em;
+	margin-inline-start: 4em;
+	margin-inline-end: 1em;
+	font-size: 14px;
+}
+ul.blau{
+	color:#317eac;
+}
+
+.anotacio{
+	font-style: italic;
+}
+.enunciat{
+	font-size:18px;
+	font-weight:500;
+	color:#317eac;
+}
+.subenunciat{
+	font-size:16px;
+	font-weight:300;
+	color:#317eac;
+}
+
+.sang{
+	display:inline-block;
+	margin-left:3.7em;
+	line-height: 1.7em;
+}
+.sang2{
+	display:inline-block;
+	margin-left:5.7em;
+	line-height: 1.7em;
+}
+.citacio{
+	font-size:13px;
+	text-indent: 4.7em;
+}
+.block{
+	display:block;
+	margin-top: 1em;
+}
+code {
+	color:inherit;
+	background-color:rgba(0, 0, 0, 0.04);
+	font-family: monospace;
+	font-size: 16px;
+	font-weight:600;
+}
